@@ -1,0 +1,5 @@
+Python是数据分析与人工智能主流编程语言,knowledge。
+Numpy负责多维数值计算，Pandas处理表格数据,knowledge。
+机器学习流程：knowledge 数据预处理→数据集划分→模型训练→评估。
+过拟合解决方法：knowledge Dropout、L2正则、早停、简化网络结构。
+java的简介:knowledge,面相对象的编程思想，oop很流行。
