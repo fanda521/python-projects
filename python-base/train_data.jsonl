@@ -1,0 +1,4 @@
+{"instruction":"什么是RAG？","response":"RAG是检索增强生成，把知识库和大模型结合，提升回答准确性。"}
+{"instruction":"Java和AI怎么结合？","response":"Java做后端服务，调用Ollama或RAG接口，实现企业级AI应用。"}
+{"instruction":"机器学习有哪些算法？","response":"常用算法：逻辑回归、决策树、随机森林、神经网络。"}
+{"instruction":"过拟合怎么解决？","response":"Dropout、L2正则、早停、简化网络结构。"}
